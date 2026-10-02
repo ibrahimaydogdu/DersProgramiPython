@@ -119,3 +119,38 @@ Bu görevler FBE İş Sağlığı ve Güvenliği Tezsiz YL programına ait olup 
 - **Bölüm Dışı İSG İ.Ö.:** 13 saat
 - **Çakışma:** **0 (Sıfır)**
 - **Günlük Üst Limit İhlali:** **0 (Tüm hocalar <= 8 saat)**
+
+---
+
+## 6. Prof. Dr. Ferhat ERDAL ve Prof. Dr. Ramazan ÖZÇELİK Revizyon ve Onay Süreci
+
+Öğretim üyelerimizin haftalık gün/saat boşaltma talepleri üzerine yapılan analiz ve revize onay taslağı şöyledir:
+
+### A. Yetki ve Lisans Kısıtı Çerçevesi
+- **Yetki Kapsamı:** Yalnızca FBE lisansüstü dersleri (Uzmanlık Alan, Lisansüstü Danışmanlık ve Seminer).
+- **Lisans Kısıtı:** Pazartesi ve Salı günleri 12:30 - 13:20 saatlerinde tüm öğretim üyelerine ortak tanımlanmış olan `İNM 403 Seminer Çalışması` dersi, fakülte lisans tablosunda yer aldığından yetki dışıdır ve taşınamaz.
+
+### B. Prof. Dr. Ferhat ERDAL (Şube 9) Revizyonu:
+- **Cuma Günü:** 0 SAAT (Tamamen Boşaltıldı). 4 saatlik `FBE 9901` Uzmanlık Alan Dersi Salı 13:30-17:20 arasına kaydırıldı.
+- **Pazartesi Günü:** 4 saatlik `FBE 9901` Uzmanlık Alan Dersi Çarşamba 13:30-17:20 arasına kaydırıldı. Pazartesi günü yalnızca yetki dışı lisans dersi olan `İNM 403` (12:30-13:20) kaldı (1 Saat). Lisansüstü yükü sıfırlandı.
+- **Salı (8 Saat):** 08:30-12:20 FBE 9901 (4 saat) + 12:30 İNM 403 (1 saat) + 13:30 Osman Can Kaya Danışmanlık + 14:30 Adriana Danışmanlık + 15:30 Ersin Kaçmaz Danışmanlık.
+- **Çarşamba (8 Saat):** 08:30 Seçil Karaçalı Danışmanlık + 09:30-12:20 İNM 211 (3 saat) + 13:30-17:20 FBE 9901 (4 saat).
+- **Perşembe (6 Saat):** 09:30-12:20 İNM 433 (3 saat) + 13:30-16:20 İNM 5065 (3 saat).
+- **Cuma (0 Saat):** Boş.
+- **Yeni Dağılım:** 1 - 8 - 8 - 6 - 0 (Toplam 23 Saat, Çakışma = 0, Günlük Max <= 8).
+
+### C. Prof. Dr. Ramazan ÖZÇELİK (Şube 7) Revizyonu:
+- **Cuma Günü:** 0 SAAT (Tamamen Boşaltıldı). 4 saatlik `FBE 6901` Uzmanlık Alan Dersi Çarşamba 13:30-17:20 arasına alındı. Cuma'daki 2 danışmanlık Pazartesi ve Salı günlerine dağıtıldı.
+- **Pazartesi (8 Saat):** 08:30-12:20 FBE 8901 (4 saat) + 12:30 İNM 403 (1 saat) + 13:30 Gürsel Seha Gültekin + 14:30 Hacı Tıkna + 15:30 Ersin Karaman.
+- **Salı (7 Saat):** 08:30 Yunus Çiftçi + 09:30-12:20 İNM 5059 (3 saat) + 12:30 İNM 403 (1 saat) + 13:30 Damla Fidancı + 14:30 Beyza Aytaç.
+- **Çarşamba (7 Saat):** 08:30-10:20 İNM 7006 Seminer II (2 saat) + 12:30 Sanan Gasimov + 13:30-17:20 FBE 6901 (4 saat).
+- **Perşembe (6 Saat):** 08:30 Mahamat Lony + 12:30 Veysel Akın + 13:30-16:20 İNM 453 (3 saat) + 16:30 Buğra Küçük.
+- **Cuma (0 Saat):** Boş.
+- **Yeni Dağılım:** 8 - 7 - 7 - 6 - 0 (Toplam 28 Saat, Çakışma = 0, Günlük Max <= 8).
+
+### D. Üretilen Onay Dosyaları (`OnayIcinDersProgramlari/`)
+1. `DersProgrami_Sube09_Prof_Dr_Ferhat_ERDAL_Onay.xlsx`: Ferhat Hoca'ya gönderilecek kişisel program.
+2. `DersProgrami_Sube07_Prof_Dr_Ramazan_OZCELIK_Onay.xlsx`: Ramazan Hoca'ya gönderilecek kişisel program.
+3. `DersProgrami_Kisisel_OnayRevize.xlsx`: 15 öğretim üyesinin tamamını içeren revize master Excel.
+4. `Bilgilendirme_ve_Onay_Yazisi.md`: Her iki öğretim üyesine iletilmek üzere hazırlanan resmi bilgilendirme metni.
+
